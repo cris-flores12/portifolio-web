@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+img{
+width: 190px; 
+  height: 190px;
+  padding: 40px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 20px;
+  
+}
+
+h2{
+    justify-self: center;
+    
+}
+
+
+header{
+    flex-direction: row;
+    border-color: black;
+    border-style: solid;
+    border-radius: 28px;    
+    margin-top: 20px;
+    margin-left:30px ;
+}
+
+.início{
+    margin-left: 800px;
+    height: 1px;
+    
+}
+.currículo{
+    margin-left: 1000px;
+    height: 1px;
+    
+}
+.contato{
+    margin-left: 600px;
+}
