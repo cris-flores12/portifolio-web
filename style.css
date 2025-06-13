@@ -4,22 +4,18 @@
   box-sizing: border-box;
   
 }
+.titulo{
+    justify-self: center;
+}
 
 img{
 width: 190px; 
   height: 190px;
   padding: 40px;
-  border-color: black;
-  border-style: solid;
+  
   border-radius: 20px;
   
 }
-
-h2{
-    justify-self: center;
-    
-}
-
 
 header{
     flex-direction: row;
@@ -42,4 +38,14 @@ header{
 }
 .contato{
     margin-left: 600px;
+}
+.projetos{
+    justify-self: center;
+}
+div{
+    display: flex;
+      border-color: black;
+  border-style: solid;
+
+    
 }
